@@ -1,1 +1,1 @@
-# Progressive-Web-Applications-Text-Editor-JATE-
+# Progressive Web Applications: Text Editor (JATE)
